@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Fixed an issue where `collectionPrefix` was incorrectly prepended to event endpoint URLs when a gateway service was configured.
 
+
 ## [1.43.0] - 2026-04-07
 
 ### Added
